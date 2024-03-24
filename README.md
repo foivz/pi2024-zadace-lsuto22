@@ -11,12 +11,9 @@ Luka Šuto | lsuto22@student.foi.hr | 0016160471 | lsuto22
 
 ## Opis domene
 
-
-## Specifikacija projekta
-
+Domena ovog projekta bi bila optimizacija osobne telemedicine.
 
 ## Zadatak
 
 
-## Resursi
 
