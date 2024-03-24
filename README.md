@@ -1,4 +1,4 @@
-# Naziv projekta
+# Zadatak - Osobna telemedicina
 
 
 ## Podaci o studentu
