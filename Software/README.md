@@ -6,3 +6,9 @@ Uvijek uzmite u obzir da se ne verzioniraju dokumenti koje IDE kreira prilikom p
 
 Shvatio sam da sam projekt commitao u odvojeni repozitorij kojeg sam kreirao dok sam pratio video prog demosa kako uspostaviti projekt. Nadam se da nije problem te u Software folderu nalazi se gotovi projekt, a commitove možete pročitati na sljedećem repozitoriju:
 Repozitorij sa commitovima: https://github.com/lsuto22/PiZadaca3
+
+Prijava u sustav:
+
+Korisničko ime: administrator
+
+Lozinka: lsuto22
